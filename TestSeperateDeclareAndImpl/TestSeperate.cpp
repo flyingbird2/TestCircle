@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "seperateDeclareAndImpl/Circle.h"
-#include "seperateDeclareAndImpl/Circle.h"
+#include "Circle.h"
+
 
 int main() {
     Circle c1, c2{3.0};
