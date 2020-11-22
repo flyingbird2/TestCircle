@@ -4,4 +4,4 @@ project(TestCircle)
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(TestCircle TestObjectCopy.cpp)
+add_executable(TestCircle AnonymousObject.cpp)
