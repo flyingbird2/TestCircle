@@ -4,4 +4,4 @@ project(TestCircle)
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(TestCircle TestObjectAsReturnValue/Main.cpp TestSeperateDeclareAndImpl/Circle.h TestSeperateDeclareAndImpl/Circle.cpp)
+add_executable(TestCircle TestDefaultConstructor/Main.cpp TestSeperateDeclareAndImpl/Circle.h TestSeperateDeclareAndImpl/Circle.cpp)
